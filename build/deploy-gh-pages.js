@@ -4,6 +4,7 @@ const path = require('path')
 const rimraf = require('rimraf')
 
 const buildStatic = () => {
+  process.env.GITHUB_PAGES = 'gh-pages'
   execSync('npm run deploy:build', { stdio: 'inherit' })
 }
 

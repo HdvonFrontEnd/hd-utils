@@ -16,6 +16,7 @@ const config = require('./config')
 const { HashedModuleIdsPlugin } = require('webpack')
 
 const isProd = process.env.NODE_ENV === 'production'
+const isGithubPages = process.env.GITHUB_PAGES === 'gh-pages'
 
 if (!isProd) {
   // 在本地development环境下
@@ -29,7 +30,7 @@ const webpackConfig = {
   entry: './docs/entry.js',
   output: {
     path: path.resolve(process.cwd(), './lib/'),
-    publicPath: isProd ? '/hd-utils' : '/',
+    publicPath: isProd && isGithubPages ? '/hd-utils' : '/',
     filename: '[name].[chunkhash:7].js',
     chunkFilename: isProd ? '[name].[chunkhash:7].js' : '[name].js'
   },
