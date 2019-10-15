@@ -1,5 +1,7 @@
 ## Hd-Websocekt
 
+![npm download](https://img.shields.io/npm/dt/hd-websocket)
+
 一个WebSocket库，支持：
 
 1. 发送需要响应的websocket请求（需要后端配合）

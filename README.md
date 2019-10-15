@@ -2,6 +2,21 @@
 
 > 弘度内部 Utils 库 --- 使用lerna管理的monorepo
 
+[![lerna](https://img.shields.io/badge/maintained%20with-lerna-cc00ff.svg)](https://lerna.js.org/)
+![Hdvon](https://img.shields.io/badge/hdvon-%E5%BC%98%E5%BA%A6%E7%A7%91%E6%8A%80%E2%9D%A4-orange)
+![npm code size](https://img.shields.io/github/languages/code-size/HdvonFrontEnd/hd-utils)
+![GitHub](https://img.shields.io/github/license/HdvonFrontEnd/hd-utils)
+![GitHub issues](https://img.shields.io/github/issues-raw/HdvonFrontEnd/hd-utils)
+
+- hd-fun ![npm download](https://img.shields.io/npm/dt/hd-fun) ![npm version](https://img.shields.io/npm/v/hd-fun)
+- hd-http ![npm download](https://img.shields.io/npm/dt/hd-http) ![npm version](https://img.shields.io/npm/v/hd-http)
+- hd-log ![npm download](https://img.shields.io/npm/dt/hd-log) ![npm version](https://img.shields.io/npm/v/hd-log)
+- hd-md-loader ![npm download](https://img.shields.io/npm/dt/hd-md-loader) ![npm version](https://img.shields.io/npm/v/hd-md-loader)
+- hd-queue ![npm download](https://img.shields.io/npm/dt/hd-queue) ![npm version](https://img.shields.io/npm/v/hd-queue)
+- hd-topo ![npm download](https://img.shields.io/npm/dt/hd-topo) ![npm version](https://img.shields.io/npm/v/hd-topo)
+- hd-tree-data ![npm download](https://img.shields.io/npm/dt/hd-tree-data) ![npm version](https://img.shields.io/npm/v/hd-tree-data)
+- hd-websocket ![npm download](https://img.shields.io/npm/dt/hd-websocket) ![npm version](https://img.shields.io/npm/v/hd-websocket)
+
 ## Build Setup
 
 ``` bash
@@ -66,8 +81,11 @@ npm run publish:all
 
 仓库中含有的组件可见packages目录，或者components.json
 
+## 感谢
+
+感谢广州弘度信息科技有限公司给予的支持。
 
 ## License
-MIT
+Hd-Utils is MIT
 
 Copyright (c) HDVON 2019-present 

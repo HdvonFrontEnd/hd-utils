@@ -1,5 +1,7 @@
 ## Hd-Topo
 
+![npm download](https://img.shields.io/npm/dt/hd-topo)
+
 - 此库使用[PIXI](https://github.com/pixijs/pixi.js/)， 使用webgl绘制2D的形式，用来绘制拓扑图；
 - 使用了[d3-force](https://github.com/d3/d3-force)力导引布局，自动计算位置；
 - 使用了[d3-zoom](https://github.com/d3/d3/blob/f025ca4ed8e66184b0ca3308eda5d91c5ba66834/API.md#zooming-d3-zoom), 计算zoom；

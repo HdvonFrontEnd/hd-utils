@@ -1,5 +1,7 @@
 # hd-md-loader
 
+![npm download](https://img.shields.io/npm/dt/hd-md-loader)
+
 一个webpack loader，提取自[Element-UI](https://github.com/ElemeFE/element)
 
 用于生成文档页面，他会解析markdown文件，生成对应的页面。

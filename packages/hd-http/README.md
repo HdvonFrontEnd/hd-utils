@@ -1,5 +1,7 @@
 ## Hd-Http
 
+![npm download](https://img.shields.io/npm/dt/hd-http)
+
 一个基于axios封装的 http 库
 
 使用方式：

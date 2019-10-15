@@ -1,5 +1,7 @@
 # Hd-Queue
 
+![npm download](https://img.shields.io/npm/dt/hd-queue)
+
 用于管理并发任务
 
 通过push方法往任务队列（waitList）推入任务

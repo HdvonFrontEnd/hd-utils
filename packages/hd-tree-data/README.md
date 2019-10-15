@@ -1,5 +1,7 @@
 # Hd-Tree-Data
 
+![npm download](https://img.shields.io/npm/dt/hd-tree-data)
+
 > 树接口数据转换
 
 ## 快速开始

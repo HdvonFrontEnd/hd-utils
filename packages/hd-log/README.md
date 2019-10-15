@@ -1,5 +1,7 @@
 ## Hd-Log
 
+![npm download](https://img.shields.io/npm/dt/hd-log)
+
 日志格式化打印库
 
 使用方式：
