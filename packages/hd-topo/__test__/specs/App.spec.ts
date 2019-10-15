@@ -2,7 +2,7 @@
 import App from 'topo/App'
 import { expect } from 'chai'
 import * as PIXI from 'pixi.js'
-import data from 'tatic/hd-topo-demo-data/demo/data/demoData.json'
+import data from 'static/hd-topo-demo-data/demo/data/demoData.json'
 
 // https://github.com/pixijs/pixi.js/issues/5778
 // 解决 WebGL unsupported in this browser
