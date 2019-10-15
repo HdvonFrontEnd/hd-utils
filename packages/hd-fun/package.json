@@ -1,0 +1,16 @@
+{
+  "name": "hd-fun",
+  "description": "javascript工具函数库",
+  "version": "0.3.0",
+  "files": [
+    "dist"
+  ],
+  "dependencies": {
+    "dayjs": "^1.8.12"
+  },
+  "main": "dist/index.js",
+  "author": "HDVON",
+  "license": "MIT",
+  "repository": "git@172.20.2.10:yuanjinhui/hd-utils.git",
+  "gitHead": "3933a312c06ee42721f263ad17b0725218f868f7"
+}

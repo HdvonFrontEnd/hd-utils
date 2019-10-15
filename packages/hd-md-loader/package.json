@@ -1,0 +1,20 @@
+{
+  "name": "hd-md-loader",
+  "version": "0.3.0",
+  "description": "提取自Element-UI的webpack loader，用于解析markdown",
+  "main": "dist/index.js",
+  "files": [
+    "dist"
+  ],
+  "scripts": {},
+  "keywords": [],
+  "dependencies": {
+    "markdown-it-anchor": "5.0.2",
+    "markdown-it-chain": "1.3.0",
+    "markdown-it-container": "2.0.0",
+    "transliteration": "1.1.11"
+  },
+  "author": "HDVON",
+  "license": "MIT",
+  "gitHead": "556c9f69851a390effdd35d78acdd6963a9362bb"
+}

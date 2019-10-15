@@ -1,0 +1,13 @@
+{
+  "name": "hd-queue",
+  "version": "0.1.0",
+  "description": "用于管理并发任务",
+  "main": "dist/index.js",
+  "files": [
+    "dist"
+  ],
+  "scripts": {},
+  "keywords": [],
+  "author": "HDVON",
+  "license": "MIT"
+}

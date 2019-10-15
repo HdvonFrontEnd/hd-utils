@@ -1,0 +1,16 @@
+{
+  "name": "hd-tree-data",
+  "version": "0.0.2",
+  "description": "树型数据转换",
+  "main": "dist/index.js",
+  "files": [
+    "dist"
+  ],
+  "scripts": {},
+  "keywords": [],
+  "author": "HDVON",
+  "license": "MIT",
+  "dependencies": {
+    "lodash.clonedeep": "^4.5.0"
+  }
+}

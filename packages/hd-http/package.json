@@ -1,0 +1,22 @@
+{
+  "name": "hd-http",
+  "version": "0.3.0",
+  "description": "一个基于axios封装的 http 库",
+  "main": "dist/index.js",
+  "files": [
+    "dist"
+  ],
+  "scripts": {},
+  "keywords": [],
+  "dependencies": {
+    "axios": "0.18.1",
+    "hd-log": "^0.1.0",
+    "qs": "6.6.0"
+  },
+  "devDependencies": {
+    "js-md5": "^0.7.3"
+  },
+  "author": "HDVON",
+  "license": "MIT",
+  "gitHead": "3933a312c06ee42721f263ad17b0725218f868f7"
+}

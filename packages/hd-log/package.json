@@ -1,0 +1,17 @@
+{
+  "name": "hd-log",
+  "version": "0.1.0",
+  "description": "日志格式化打印库",
+  "main": "dist/index.js",
+  "files": [
+    "dist"
+  ],
+  "scripts": {},
+  "keywords": [],
+  "author": "HDVON",
+  "license": "MIT",
+  "dependencies": {
+    "hd-fun": "^0.3.0"
+  },
+  "gitHead": "3933a312c06ee42721f263ad17b0725218f868f7"
+}

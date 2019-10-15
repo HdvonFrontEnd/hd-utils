@@ -1,0 +1,6 @@
+packages/**/dist/*
+packages/**/__test__/coverage/*
+node_modules/
+*.md
+*.png
+*.json

@@ -1,0 +1,74 @@
+{
+  "nodes": [{
+    "id": 100,
+    "name": "天河区",
+    "type": "district",
+    "x": 0,
+    "y": 0
+  }, {
+    "id": 0,
+    "name": "服务器",
+    "type": "server"
+  }, {
+    "id": 1,
+    "name": "主机",
+    "type": "computer"
+  }, {
+    "id": 2,
+    "name": "设备1",
+    "type": "device"
+  },{
+    "id": 3,
+    "name": "设备2",
+    "type": "device"
+  }, {
+    "id": 4,
+    "name": "设备3",
+    "type": "device"
+  }, {
+    "id": 5,
+    "name": "设备4",
+    "type": "device"
+  },{
+      "id": 6,
+      "name": "设备5",
+    "type": "device"
+  }, {
+    "id": 7,
+    "name": "设备6",
+    "type": "device"
+  }],
+  "edges": [{
+    "source": 100,
+    "target": 0,
+    "value": 1
+  }, {
+    "source": 0,
+    "target": 1,
+    "value": 1
+  }, {
+    "source": 1,
+    "target": 2,
+    "value": 1
+  }, {
+    "source": 1,
+    "target": 3,
+    "value": 1
+  }, {
+    "source": 1,
+    "target": 4,
+    "value": 1
+  }, {
+    "source": 1,
+    "target": 5,
+    "value": 1
+  }, {
+    "source": 1,
+    "target": 6,
+    "value": 1
+  }, {
+    "source": 1,
+    "target": 7,
+    "value": 1
+  }]
+}
