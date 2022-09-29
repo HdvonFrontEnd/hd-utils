@@ -11,7 +11,7 @@
   "author": "HDVON",
   "dependencies": {
     "@types/d3": "^5.7.2",
-    "d3": "^5.9.1",
+    "d3": "^7.6.1",
     "pixi.js": "^5.1.0"
   },
   "license": "MIT"
